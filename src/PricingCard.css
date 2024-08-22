@@ -1,0 +1,7 @@
+.color-box {
+  transition: background-color 3s ease;
+}
+
+.color-box:hover {
+  transition: background-color 0.1s ease;
+}
