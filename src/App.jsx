@@ -14,7 +14,7 @@ function App() {
 
       <Router>
       <Routes> 
-        <Route path="/" element={<Product/>}  />
+        <Route path="/green-ecommerce-page/" element={<Product/>}  />
         <Route path="/pricing-panel" element={<PricingPanel/>}  />
       </Routes>
     </Router>
